@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Implementation of gMCP in GSD"
+  author: "Yevgen Tymofyeyev and Michael Grayling"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - template.Rmd
+
+bibliography: 
+    - gMCP_in_GSD.bib
+
+format:
+  html:
+    theme: cosmo
+    embed-resources: true
+

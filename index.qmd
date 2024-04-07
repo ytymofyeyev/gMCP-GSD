@@ -1,0 +1,34 @@
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+Useful web resource to create and manage bib files 
+https://www.mendeley.com/search/
+
+To create bib entries for R packages can use: 
+```{r}
+#| echo: true
+#| code-fold: true
+#| 
+knitr::write_bib(c(.packages(), "gsDesign","gMCP","gMCPLite"), "gMCP_in_GSD.bib")
+```
+
+<!-- e-mails for copy paste 
+::: {#tbl-panel layout-ncol=2}
+|                    |             |    
+|:-------------------------|:------------|
+| Grayling, Michael        | |
+| Khan, Josephine          | |
+| Pei, Lixia               | |
+| Pinheiro, Jose           | |  
+| Rao, Sudhakar      | |  
+| Tymofyeyev, Yevgen | |
+
+*Participants*
+:::
+
+Pei, Lixia [JRDUS] <LPei2@its.jnj.com>;  Khan, Josephine [JRDGB] <JKhan7@ITS.JNJ.com>; 
+Rao, Sudhakar [JRDUS] <SRao2@its.jnj.com>;  Pinheiro, Jose [JRDUS] <JPinhei1@its.jnj.com>; 
+-->
