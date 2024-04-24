@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Implementation of gMCP in GSD",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\nUseful web resource to create and manage bib files https://www.mendeley.com/search/\nTo create bib entries for R packages can use:\n\n\nCode\nknitr::write_bib(c(.packages(), \"gsDesign\",\"gMCP\",\"gMCPLite\"), \"gMCP_in_GSD.bib\")"
+    "text": "Preface\nThis hithub pages created for the demo purpose of “Automation tools for group sequential designs with MTP” presentation at\nAdaptive Designs & Multiple Testing Procedures Workshop\n25-26 April, 2024\nby Yevgen Tymofyeyev and Michael Grayling"
   },
   {
     "objectID": "template.html#introduction",
