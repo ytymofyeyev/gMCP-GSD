@@ -1,19 +1,16 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+This hithub pages created for the demo purpose of 
+"Automation tools for group sequential designs with MTP" presentation
+at
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+Adaptive Designs & Multiple Testing
+Procedures Workshop
 
-Useful web resource to create and manage bib files 
-https://www.mendeley.com/search/
+25-26 April, 2024
 
-To create bib entries for R packages can use: 
-```{r}
-#| echo: true
-#| code-fold: true
-#| 
-knitr::write_bib(c(.packages(), "gsDesign","gMCP","gMCPLite"), "gMCP_in_GSD.bib")
-```
+by Yevgen Tymofyeyev and Michael Grayling
+
 
 <!-- e-mails for copy paste 
 ::: {#tbl-panel layout-ncol=2}
