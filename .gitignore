@@ -1,6 +1,7 @@
 /.quarto/
 /_book/
 /template_files/
+*.html
 *.Rproj
 # History files
 .Rhistory
