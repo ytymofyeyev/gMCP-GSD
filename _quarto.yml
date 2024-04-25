@@ -7,7 +7,7 @@ book:
   date: last-modified
   chapters:
     - index.qmd
-    - template.Rmd
+    - template.qmd
 
 bibliography: 
     - gMCP_in_GSD.bib
@@ -16,4 +16,5 @@ format:
   html:
     theme: cosmo
     embed-resources: true
+    code-fold: true
 
